@@ -1,4 +1,4 @@
-# alexa-jammer for the ESP8266
+# Amazon Echo (Alexa) and Google Home jammer for the ESP8266
 
 (The project is still under development and not tested yet.)
 
